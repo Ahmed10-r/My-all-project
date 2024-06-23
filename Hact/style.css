@@ -1,0 +1,61 @@
+.navbar{
+    
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+ justify-content: right;
+}
+#navbarNav{
+    background-color: gray;
+    justify-content: right;
+
+}
+.logo-cisco{
+    height: 200px;
+}
+    .banner{
+        background-image: url(body\ Image.avif);
+        max-width: 100%;
+    background-size: cover;
+    height: 100vh;
+    }
+    
+    .hero{
+        margin-left: 8rem;
+        padding-top: 10rem;
+    }
+    
+    
+    
+        .hero h1{
+            max-width: 40rem;
+            font-size: 4rem;
+            color: #fff;
+        }
+        
+        .hero p {
+            font-size: 1.1rem;
+            color: #fff;
+            max-width: 38rem;
+            margin: 1.1rem 0 3rem 0;
+            line-height: 1.8rem;
+        }
+        
+        .hero button {
+            border-radius: 25px;
+            border-style: none;
+            padding: 1rem;
+        }
+        .iconlogo{
+            display: flex;
+            justify-content: center;        
+        }
+        li{
+    list-style-type: none;
+    margin: 30px;
+    
+        }
+    
+       .flex a{
+        display: flex;
+            flex-flow: column wrap;
+        }
