@@ -1,0 +1,93 @@
+/* ===========tablet============ */
+
+@media (min-width: 550px) {
+
+
+    /* ==========collection========== */
+
+    section ul {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+
+    section li {
+        flex-basis: 49.5%;
+    }
+
+    figure img {
+        object-position: 0;
+    }
+
+
+    /* ==========header========== */
+
+    header {
+        padding: 3rem;
+    }
+
+    nav ul {
+        justify-content: center;
+        gap: 1.5em;
+    }
+
+    nav li {
+        flex-basis: auto;
+        margin-bottom: 0;
+    }
+
+    nav a {
+        color: var(--color1);
+        background-color: transparent;
+        padding: 0;
+    }
+
+    nav a:hover {
+        background-color: transparent;
+        color: var(--color10);
+    }
+}
+
+
+
+/* ===========desktop=========== */
+
+@media (min-width:800px) {
+
+
+    /* ==========collection========== */
+
+    section h2 {
+        margin-left: 100px;
+    }
+
+    section li {
+        flex-basis: 32.5%;
+    }
+
+    /* ==========header========== */
+
+    nav li {
+        margin: 0 auto;
+    }
+
+    
+}
+
+
+/* ===========tablet and desktop=========== */
+
+@media (min-width:550px) and (max-width:799px) {
+
+
+    /* ==========popullarprints========== */
+
+    section li.tablet-card-3 {
+        flex-basis: 100%;
+    }
+
+    section li.tablet-card-3 img {
+        object-position: 0 -350px;
+    }
+    
+}
