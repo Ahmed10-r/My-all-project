@@ -1,0 +1,186 @@
+* {
+    margin-top: 5px;
+}
+
+body {
+
+    display: flex;
+    font-size: 24px;
+    flex-direction: column;
+
+}
+
+.main-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    display: flex;
+    flex: 1;
+    text-align: center;
+}
+
+.class1 {
+    background-color: rgb(236, 226, 247);
+    padding: 22px;
+    width: 50vh;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.class10 {
+    background-color: bisque;
+    width: 57vh;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.class2 {
+    padding: 22px;
+    background-color: rgb(236, 226, 247);
+    width: 14vh;
+    border-radius: 5px;
+
+
+}
+
+.class4 {
+    background-color: rgb(236, 226, 247);
+    height: 60vh;
+    width: 35.7vh;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+.class5 {
+    background-color: rgb(236, 226, 247);
+    padding: 22px;
+    width: 50vh;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.side {
+
+    width: 70%;
+    height: 32.4vh;
+    border: 2px solid rgb(240, 164, 240);
+    border-radius: 5px;
+
+}
+
+.side2 {
+    border: 2px solid rgb(240, 164, 240);
+    height: 9vh;
+    width: 19vh;
+    margin: auto;
+    border-radius: 5px;
+
+}
+
+.side3 {
+    border: 2px solid rgb(240, 164, 240);
+    height: 9vh;
+    width: 19vh;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.side4 {
+    border: 2px solid rgb(240, 164, 240);
+    height: 9vh;
+    width: 19vh;
+    border-radius: 5px;
+
+}
+
+
+
+
+
+* {
+    margin-top: 5px;
+}
+
+body {
+
+    display: flex;
+    font-size: 24px;
+    flex-direction: column;
+}
+
+
+.main {
+    display: flex;
+    flex: 1;
+    text-align: center;
+}
+
+header {
+    background-color: rgb(233, 130, 165);
+    padding: 22px;
+    width: 50vh;
+    border-radius: 5px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(18, 184, 106);
+    width: 57vh;
+    border-radius: 5px;
+    text-align: center;
+}
+
+main {
+    padding: 22px;
+    background-color: rgb(170, 248, 221);
+    width: 30vh;
+    border-radius: 5px;
+
+}
+
+aside {
+    background-color: rgb(248, 222, 227);
+    height: 65vh;
+    width: 20vh;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+footer {
+    background-color: rgb(121, 76, 121);
+    padding: 19px;
+    width: 50vh;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.Ahmed {
+    background-color: rgb(142, 212, 233);
+    height: 299px;
+    border-radius: 5px;
+
+
+}
+
+.Center {
+    background-color: rgb(248, 248, 55);
+    height: 60px;
+    width: 70%;
+    border-radius: 5px;
+}
+
+.Pra {
+    background-color: rgb(211, 255, 88);
+    width: 70%;
+    height: 60px;
+    border-radius: 5px;
+}
+
+.Sec {
+    background-color: rgb(23, 201, 255);
+    width: 70%;
+    height: 60px;
+    border-radius: 5px;
+}

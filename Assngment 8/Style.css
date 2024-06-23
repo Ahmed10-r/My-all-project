@@ -1,0 +1,33 @@
+ul li a{
+    color: #fff;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+      color: #fff;
+}
+
+@media screen and (max-width: 768px){
+    ul li a{
+        color: #fff;
+    }
+    ul{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: black;
+          color: #fff;
+    }
+    .para{
+        padding: 0% 17%;
+    }
+    .row{
+        padding: 0% 17%;
+    }
+}
+.para{
+    padding: 0% 17%;
+}
+.row{
+    padding: 0% 17%;
+}

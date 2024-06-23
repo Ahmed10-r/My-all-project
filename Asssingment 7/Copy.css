@@ -1,0 +1,160 @@
+body {
+    background-color: aqua;
+}
+
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Ahmed {
+    background-color: aliceblue;
+    flex-wrap: wrap;
+    border: 3px solid;
+    width: 10%;
+    text-align: center;
+    justify-content: space-between;
+    height: 80px;
+    flex-basis: 22%;
+    border-radius: 5px;
+}
+
+.Ahmd {
+    flex-wrap: wrap;
+    width: 10%;
+    justify-content: space-between;
+    height: 80px;
+    text-align: center;
+    background-color: beige;
+    border: 3px solid;
+    flex-basis: 22%;
+    border-radius: 5px;
+}
+
+.Ahme {
+    flex-wrap: wrap;
+    width: 10%;
+    text-align: center;
+    justify-content: space-between;
+    height: 80px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    flex-basis: 22%;
+    border: 3px solid;
+}
+
+.Ahed {
+    flex-wrap: wrap;
+    width: 10%;
+    justify-content: space-between;
+    height: 80px;
+    background-color: brown;
+    align-items: center;
+    flex-basis: 22%;
+    border: 3px solid;
+    border-radius: 5px;
+}
+
+.logo1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Raza {
+    flex-basis: 48%;
+    border: 3px solid;
+    background-color: chartreuse;
+    text-align: center;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.Khan {
+    flex-basis: 48%;
+    border: 3px solid;
+    text-align: center;
+    background-color: darkgreen;
+    height: 80px;
+    border-radius: 5px;
+}
+
+.azad {
+    display: flex;
+    justify-content: space-between;
+}
+
+.light {
+    flex-basis: 74%;
+    background-color: rgb(100, 45, 0);
+    border: 3px solid;
+    height: 80px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.six {
+    flex-basis: 22%;
+    text-align: center;
+    background-color: rgb(115, 124, 115);
+    height: 80px;
+    border-radius: 5px;
+    border: 3px solid;
+}
+
+.one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rever {
+    flex-basis: 100%;
+    background-color: rgb(13, 209, 243);
+    height: 80px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 5px;
+}
+
+.mobo {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nela {
+    flex-basis: 48%;
+    text-align: center;
+    height: 80px;
+    background-color: darkseagreen;
+    border: 3px solid;
+    border-radius: 5px;
+
+}
+
+.rado {
+    flex-basis: 22%;
+    background-color: darkgreen;
+    text-align: center;
+    height: 80px;
+    border: 3px solid;
+    border-radius: 5px;
+}
+
+.car {
+    flex-basis: 22%;
+    text-align: center;
+    background-color: rgb(201, 22, 186);
+    height: 80px;
+    border-radius: 5px;
+    border: 3px solid;
+}
+
+@media screen and (max-width: 768px) {
+    .row {
+      
+      flex-flow: column wrap;
+    }
+}
+/* 445,600,1200,768,991,1024,1440 */
